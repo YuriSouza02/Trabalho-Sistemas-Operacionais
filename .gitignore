@@ -1,0 +1,7 @@
+# arquivos VScode
+.vs/
+
+# executaveis
+*.exe
+consumidor
+produtor
