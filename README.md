@@ -21,7 +21,7 @@ g++ -o consumidor Consumidor.cpp
 
 ### Execução
 ```bash
-./produtor  # Terminal 1
+./produtor 100  # Terminal 1
 ./consumidor  # Terminal 2
 ```
 
